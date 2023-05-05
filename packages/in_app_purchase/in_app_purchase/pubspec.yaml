@@ -21,7 +21,6 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  in_app_purchase_android: ^0.2.3
   in_app_purchase_platform_interface: ^1.0.0
   in_app_purchase_storekit: ^0.3.4
 
